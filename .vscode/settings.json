@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "joystick.h": "c",
+        "descriptors.h": "c"
+    }
+}
